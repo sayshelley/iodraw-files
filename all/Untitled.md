@@ -20,7 +20,7 @@ gantt
     Determine typesetting: b8, after b7, 10d
     Produce security design report: b9, after b8, 15d
     Design AI algorithm: b10, after b9, 25d
-    Design real-time data processing: 
+    Design real-time data processing: b11, after b10, 
     
 
 
