@@ -28,6 +28,7 @@ gantt
     Develop UI files: c4, after c3, 23d
     Implement encryption algorithms: c5, after c4, 15d
     Develop/choose AI engine: c6, after c5, 20d
+    section 
 
     
 
