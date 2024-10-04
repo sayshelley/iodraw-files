@@ -21,7 +21,7 @@ gantt
         Determine fonts: b8, 2024-10-08, 10d
         Determine typesetting: b9, 2024-10-08, 10d
         Produce security design report: b10, 2024-10-28 ,15d
-        Produce ER Diagram for database design
+        Produce ER Diagram for database design: b11, 2024-10-28,
     section Develop
 
 
