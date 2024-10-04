@@ -22,7 +22,7 @@ gantt
         Determine typesetting: b9, 2024-10-08, 10d
         Produce security design report: b10, 2024-10-28 ,15d
         Produce ER Diagram for database design: b11, 2024-10-28, 15
-        Design AI algorithm
+        Design AI algorithm: b12, 
     section Develop
 
 
