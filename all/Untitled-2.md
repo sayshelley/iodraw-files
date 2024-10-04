@@ -15,7 +15,8 @@ gantt
         Define database protection protocol: b2, 2024-10-08, 20d
         Define privacy requirements: b3, 2024-10-08, 20d
         Design updated system architecture: b4, 2024-10-08, 35d
-        Define database schema: b5, after b
+        Define database schema: b5, after b2, 30d
+        Design the system to have appropriate capacity: b6, 
 
 
     section Develop
