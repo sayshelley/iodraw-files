@@ -20,7 +20,7 @@ gantt
         choose color: b7, 2024-10-08, 10d
         Determine fonts: b8, 2024-10-08, 10d
         Determine typesetting: b9, 2024-10-08, 10d
-        Produce security design report
+        Produce security design report: b10, after
     section Develop
 
 
