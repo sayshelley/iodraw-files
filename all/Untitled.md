@@ -8,7 +8,7 @@ gantt
     Establish performance benchmarks: a3, after a2, 5d
     Gather user expectations: a4, after a3, 15d
     Define key UX metrics : a5, after a4, 6d
-    Discuss new functions:
+    Discuss new functions: a6, after a5, 
     
 
 
