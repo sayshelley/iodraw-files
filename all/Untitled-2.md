@@ -14,7 +14,7 @@ gantt
         Asset current security system: b1, 2024-10-08, 20d
         Define database protection protocol: b2, 2024-10-08, 20d
         Define privacy requirements: b3, 2024-10-08, 20d
-        Design updated system architecture: b
+        Design updated system architecture: b4, 2024-10-08, 20
 
 
     section Develop
