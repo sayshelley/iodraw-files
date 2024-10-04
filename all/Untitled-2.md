@@ -11,7 +11,8 @@ gantt
         Define Key UX metrics: a5, after a4, 20d
         
     section Design
-        Asset current security system: b1, 2024-10-0, 20d
+        Asset current security system: b1, 2024-10-08, 20d
+        
 
     section Develop
 
