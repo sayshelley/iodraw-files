@@ -3,7 +3,7 @@ gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     section Requirements Analysis
-        2024-08-01
+        Determine scalability requirements
     section Design
 
     section Develop
