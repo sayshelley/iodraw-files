@@ -16,7 +16,8 @@ gantt
     Design updated system architecture: b4, after b3, 30d
     Define database schema: b5, after b4, 15d
     Design system capacity: b6, after b5, 15d
-    Choose color and fonts: 
+    Choose color and fonts: b7, after b6, 10d
+    Determine typesetting: b
     
 
 
