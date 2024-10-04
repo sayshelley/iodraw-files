@@ -7,7 +7,7 @@ gantt
     Determine environment and device requirements :a2, after a1, 5d
     Establish performance benchmarks: a3, after a2, 5d
     Gather user expectations: a4, after a3, 15d
-    Deployment : a5, after a4, 60d
+    Define key UX metrics : a5, after a4, 60d
     
 
 
