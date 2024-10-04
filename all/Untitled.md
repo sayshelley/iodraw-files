@@ -22,7 +22,8 @@ gantt
     Design AI algorithm: b10, after b9, 25d
     Design real-time data processing: b11, after b10, 15
     section Develop
-    Develop APIs: c1, after b11, 2
+    Develop APIs: c1, after b11, 20
+    mplement system scalability features
     
 
 
