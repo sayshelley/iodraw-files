@@ -10,7 +10,7 @@ gantt
     Define key UX metrics : a5, after a4, 6d
     Discuss new functions: a6, after a5, 15d
     section Design
-    Assess current security system:b1,
+    Assess current security system:b1, after a6,
     
 
 
