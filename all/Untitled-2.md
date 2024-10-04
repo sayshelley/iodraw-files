@@ -12,7 +12,7 @@ gantt
         
     section Design
         Asset current security system: b1, 2024-10-08, 20d
-        
+        Define database protection protocol: b
 
     section Develop
 
