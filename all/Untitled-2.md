@@ -7,7 +7,7 @@ gantt
         Discuss new functions: a6, 2024-08-01, 20d
         Determine scalability requirements: a1, after a4, 30d
         Determine Environment and Device requirements: a2, after a4, 30d
-        Establish performance benchmarks: a3, 2024-08-01, 20d
+        Establish performance benchmarks: a3, after a4, 20d
         Define Key UX metrics: a5, 2024-08-01, 20d
         
     section Design
