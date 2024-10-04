@@ -27,7 +27,7 @@ gantt
     Implement new system architecture: c3, after c2, 20d
     Develop UI files: c4, after c3, 23d
     Implement encryption algorithms: c5, after c4, 15d
-    Implement encryption algorithms: c6
+    Implement encryption algorithms: c6, after c5, 20d
     
 
 
