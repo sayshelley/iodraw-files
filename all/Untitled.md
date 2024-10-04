@@ -19,7 +19,7 @@ gantt
     Choose color and fonts: b7, after b6, 10d
     Determine typesetting: b8, after b7, 10d
     Produce security design report: b9, after b8, 15d
-    Design AI algorithm
+    Design AI algorithm: b10, after b
     
 
 
