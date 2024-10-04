@@ -26,7 +26,8 @@ gantt
     Implement system scalability features: c2, after c1, 20d
     Implement new system architecture: c3, after c2, 20d
     Develop UI files: c4, after c3, 23d
-    Implement encryption algorithms: c5, after c
+    Implement encryption algorithms: c5, after c4, 15d
+    
     
 
 
