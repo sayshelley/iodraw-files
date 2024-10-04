@@ -23,7 +23,8 @@ gantt
     Design real-time data processing: b11, after b10, 15d
     section Develop
     Develop APIs: c1, after b11, 20d
-    Implement system scalability features: c2, after c1
+    Implement system scalability features: c2, after c1, 20d
+    
     
 
 
