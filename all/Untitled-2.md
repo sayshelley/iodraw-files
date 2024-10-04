@@ -8,9 +8,9 @@ gantt
         Establish performance benchmarks: a3, 2024-08-01, 20d
         Gather user expectation: a4, 2024-08-01, 30d
         Define Key UX metrics: a5, 2024-08-01, 20d
-        Discuss new functions: a6, 2024-08-01, 
+        Discuss new functions: a6, 2024-08-01, 20d
     section Design
-
+        
     section Develop
 
 
