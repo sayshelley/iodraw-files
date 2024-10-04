@@ -17,7 +17,8 @@ gantt
         Design updated system architecture: b4, 2024-10-08, 35d
         Define database schema: b5, after b2, 30d
         Design the system to have appropriate capacity: b6, after b4, 30d
-        choose color: b7, 2024-10-08, 1
+        choose color: b7, 2024-10-08, 10d
+        Determine fonts
 
 
     section Develop
