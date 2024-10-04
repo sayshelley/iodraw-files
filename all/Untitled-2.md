@@ -6,7 +6,8 @@ gantt
         Determine scalability requirements: a1, 2024-08-01, 30d
         Determine Environment and Device requirements: a2, 2024-08-01, 30d
         Establish performance benchmarks: a3, 2024-08-01, 20d
-        Gather user expectation: a4, 2024-08-01, 
+        Gather user expectation: a4, 2024-08-01, 30d
+        Define Key 
         
     section Design
 
