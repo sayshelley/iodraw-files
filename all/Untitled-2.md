@@ -4,8 +4,8 @@ gantt
     dateFormat  YYYY-MM-DD
     section Requirements Analysis
         Gather user expectation: a4, 2024-08-01, 30d
-        
-        Determine scalability requirements: a1, 2024-08-01, 30d
+        Discuss new functions: a6, 2024-08-01, 20d
+        Determine scalability requirements: a1, after a4, 30d
         Determine Environment and Device requirements: a2, 2024-08-01, 30d
         Establish performance benchmarks: a3, 2024-08-01, 20d
         Define Key UX metrics: a5, 2024-08-01, 20d
