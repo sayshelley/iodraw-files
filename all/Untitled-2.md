@@ -19,8 +19,8 @@ gantt
         Design the system to have appropriate capacity: b6, after b4, 30d
         choose color: b7, 2024-10-08, 10d
         Determine fonts: b8, 2024-10-08, 10d
-        Determine typesetting: b9, 2024-
-
+        Determine typesetting: b9, 2024-10-08, 10d
+        
     section Develop
 
 
