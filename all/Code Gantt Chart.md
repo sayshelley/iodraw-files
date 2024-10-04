@@ -7,7 +7,7 @@ gantt
     Design :a2, after a1, 60d
     Development: a3, after a2, 112d
     Testing: a4, after a3, 57d
-    
+    Deployment : a5, 
     
 
 
