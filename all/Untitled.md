@@ -25,7 +25,7 @@ gantt
     Develop APIs: c1, after b11, 20d
     Implement system scalability features: c2, after c1, 20d
     Implement new system architecture: c3, after c2, 20d
-    
+    Develop UI files
     
 
 
