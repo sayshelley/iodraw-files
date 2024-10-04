@@ -10,7 +10,7 @@ gantt
         Define Key UX metrics: a5, 2024-08-01, 20d
         Discuss new functions: a6, 2024-08-01, 20d
     section Design
-        
+        Asset current security system
     section Develop
 
 
