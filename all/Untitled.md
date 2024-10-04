@@ -4,7 +4,7 @@ gantt
     dateFormat  YYYY-MM-DD
     section Requirements Analysis
     Determine scalability requirements :a1, 2024-08-01, 5d
-    Determine environment and device requirements :a2, after a1, 5d
+    Determine environment and device requirements :a2, , 5d
     Establish performance benchmarks: a3, after a2, 5d
     Gather user expectations: a4, after a3, 15d
     Define key UX metrics : a5, after a4, 6d
@@ -12,13 +12,7 @@ gantt
     section Design
 
     section Develop
-    Develop APIs: c1, after b11, 20d
-    Implement system scalability features: c2, after c1, 20d
-    Implement new system architecture: c3, after c2, 20d
-    Develop UI files: c4, after c3, 23d
-    Implement encryption algorithms: c5, after c4, 15d
-    Develop/choose AI engine: c6, after c5, 20d
-    
+
 
     
 
