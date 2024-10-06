@@ -27,7 +27,7 @@ gantt
     section Develop
         Develop APIs: c1, 2025-01-01, 45d
         Implement system scalability features: c2, 2025-01-01, 40d
-        Implement new system architecture: 
+        Implement new system architecture: c3, 2025-01-01,
 
     
 
