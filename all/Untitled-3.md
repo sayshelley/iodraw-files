@@ -26,7 +26,8 @@ gantt
         Design architecture for real-time data processing: b13, 2024-11-12,30d
     section Develop
         Develop APIs: c1, 2025-01-01, 45d
-        Implement system scalability features: c2, 2025-01-01, 
+        Implement system scalability features: c2, 2025-01-01, 40d
+        Implement new system architecture: 
 
     
 
