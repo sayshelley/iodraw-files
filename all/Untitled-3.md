@@ -23,7 +23,7 @@ gantt
         Produce security design report: b10, 2024-10-28 ,15d
         Produce ER Diagram for database design: b11, 2024-10-28, 15
         Design AI algorithm: b12, 2024-10-08, 35
-        De
+        Design architecture for
     section Develop
 
 
