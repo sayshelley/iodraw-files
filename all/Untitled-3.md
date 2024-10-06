@@ -25,7 +25,7 @@ gantt
         Design AI algorithm: b12, 2024-10-08, 35
         Design architecture for real-time data processing: b13, 2024-11-12,30d
     section Develop
-        
+        Develop AP
 
     
 
