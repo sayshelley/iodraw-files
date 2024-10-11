@@ -75,11 +75,6 @@ gantt
         Rest time: 2025-07-15, 15d
     
 
-todayMarker off
-    .taskText {
-    fill:white;
-    text-anchor:middle;
-    }
 
     
 
