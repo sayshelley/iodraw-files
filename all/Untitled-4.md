@@ -35,7 +35,7 @@ gantt
         Develop/choose AI engine: c8, 2025-01-01, 55d
         Train model: c9, 2025-02-25, 30d
         Develop real-time order tracking model: c10, 2025-01-01, 50d
-        Integrage modl
+        Integrage models into system:
     
         
 
