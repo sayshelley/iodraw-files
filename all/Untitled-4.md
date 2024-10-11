@@ -39,7 +39,8 @@ gantt
     section Testing
         Test system features: d1, 2025-04-20, 25d
         Test system capabilities: d2, 2025-04-20, 30d
-        Test system response time: d3, 2025-04-20, 30
+        Test system response time: d3, 2025-04-20, 30d
+        Conduct user 
     
         
 
