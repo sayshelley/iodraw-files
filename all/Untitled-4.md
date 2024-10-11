@@ -51,7 +51,7 @@ gantt
         Perform load test: d12, 2025-05-15, 15d
     section Deployment
         Configure servers and database: e1, 2025-06-07, 15d
-        Integrate cloud environment,
+        Integrate cloud environment: e2, 
     
         
 
