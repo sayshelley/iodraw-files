@@ -45,7 +45,7 @@ gantt
         Test UI on different operating systems: d6, 2025-04-20, 15d
         Test UI on different devices: d7, 2025-04-20, 15d
         Validate the accuracy of AI recommendations: d8, 2025-04-20, 20d
-        Check AI performance stability: d
+        Check AI performance stability: d9, 2025-04-20,
     
         
 
