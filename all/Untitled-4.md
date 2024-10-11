@@ -42,7 +42,8 @@ gantt
         Test system response time: d3, 2025-04-20, 30d
         Conduct user acceptance tests: d4, 2025-04-20, 25d
         Collect user feedback on UI design: d5, 2025-04-20, 15d
-        Test UI on different operating systems: d6, 2025-04-20
+        Test UI on different operating systems: d6, 2025-04-20, 15d
+        Test UI on different devices,
     
         
 
