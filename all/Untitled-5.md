@@ -27,7 +27,7 @@ gantt
         Design AI algorithm: b12, 2024-10-08, 35
         Design architecture for real-time data processing: b13, 2024-11-12,30d
     section Buffer time
-        Rest time: 2024-1-01, 7d
+        Rest time: 2024-12-20, 7d
     section Develop
         Develop APIs: c1, 2025-01-01, 45d
         Implement system scalability features: c2, 2025-01-01, 40d
