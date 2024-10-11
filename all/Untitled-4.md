@@ -31,8 +31,8 @@ gantt
         Develop .xml file: c4, 2025-01-01, 40d
         Integrate UI into the system: c5, 2025-01-01, 50d
         Implement encryption algorithms:c6, 2025-01-01, 40d
-        Implement data protect methods: c7, 2025-01-01, 4
-    section 
+        Implement data protect methods: c7, 2025-01-01, 40d
+    
         
 
     
