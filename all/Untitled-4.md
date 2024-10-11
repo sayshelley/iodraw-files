@@ -55,7 +55,8 @@ gantt
         Deploy on new system: e3, 2025-06-22, 15d
         Migrate data: e4, 2025-06-22, 15d
         Integrate with existing models: e5, 2025-07-02, 10d
-        Connect with other applications: e6, 
+        Connect with other applications: e6, 2025-07-02,10d
+        Deploy UI to all platforms: 
     
         
 
