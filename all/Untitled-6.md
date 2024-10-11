@@ -58,7 +58,7 @@ gantt
     section Buffer time
         Rest time: 2025-06-01, 7d
     section Deployment
-        Configure servers and database: e1, 2025-06-07, 15d
+        Configure servers and database: crit,e1, 2025-06-07, 15d
         Integrate cloud environment: e2, 2025-06-07, 15d
         Deploy on new system: e3, 2025-06-22, 15d
         Migrate data: e4, 2025-06-22, 15d
