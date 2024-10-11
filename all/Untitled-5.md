@@ -72,7 +72,7 @@ gantt
         Deploy order tracking functions: e12, 2025-07-02, 10d
         Keep monitoring the performance of the function: e13, 2025-07-02, 15d
     section Buffer time
-        Rest time: 2024-06-01, 7d
+        Rest time: 2024-07-01, 7d
         
 
     
