@@ -47,7 +47,7 @@ gantt
         Validate the accuracy of AI recommendations: d8, 2025-04-20, 20d
         Check AI performance stability: d9, 2025-04-20, 15d
         Test if the function is real-time: d10, 2025-05-15, 15d
-        Validate the accuracy of tracking data:
+        Validate the accuracy of tracking data: d11, 2025-05-15
     
         
 
