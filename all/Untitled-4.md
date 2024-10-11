@@ -46,7 +46,7 @@ gantt
         Test UI on different devices: d7, 2025-04-20, 15d
         Validate the accuracy of AI recommendations: d8, 2025-04-20, 20d
         Check AI performance stability: d9, 2025-04-20, 15d
-        Test if the function is real-time: 
+        Test if the function is real-time: d10,2025-05-15
     
         
 
