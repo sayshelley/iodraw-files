@@ -73,6 +73,11 @@ gantt
         Keep monitoring the performance of the function: e13, 2025-07-02, 15d
     section Buffer time
         Rest time: 2025-07-15, 15d
+    .grid .tick {
+    stroke: lightgrey;
+    opacity: 0.3;
+    shape-rendering: crispEdges;
+}
         
 
     
