@@ -76,10 +76,7 @@ gantt
     
 
 todayMarker off
-.taskText {
-    fill:white;
-    text-anchor:middle;
-}
+    
 
     
 
