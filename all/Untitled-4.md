@@ -59,7 +59,8 @@ gantt
         Deploy UI to all platforms: e7, 2025-07-02, 10d
         Enable new security features in production: e8, 2025-07-02, 10d
         Update terms of privacy for users: e9, 2025-07-02, 7d
-        Deploy AI engine: e10,
+        Deploy AI engine: e10, 2025-07-02,10d
+        
     
         
 
