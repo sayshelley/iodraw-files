@@ -61,7 +61,8 @@ gantt
         Update terms of privacy for users: e9, 2025-07-02, 7d
         Deploy AI engine: e10, 2025-07-02,10d
         Continue collecting user data: e11, 2025-07-02, 7d
-        Deploy order tracking functions: e12, 2025-07-02,
+        Deploy order tracking functions: e12, 2025-07-02, 10d
+        Keep monitoring the performance of the function
     
         
 
