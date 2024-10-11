@@ -36,7 +36,8 @@ gantt
         Train model: c9, 2025-02-25, 30d
         Develop real-time order tracking model: c10, 2025-01-01, 50d
         Integrage models into system: c11, 2025-03-26, 15d
-    sec
+    section Testing
+    
     
         
 
