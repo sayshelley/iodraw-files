@@ -38,7 +38,8 @@ gantt
         Integrage models into system: c11, 2025-03-26, 15d
     section Testing
         Test system features: d1, 2025-04-20, 25d
-        Test system capabilities: d2, 2025-04-20. 
+        Test system capabilities: d2, 2025-04-20, 30d
+        Test st
     
         
 
