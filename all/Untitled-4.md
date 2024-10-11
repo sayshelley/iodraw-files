@@ -30,8 +30,8 @@ gantt
         Implement new system architecture: c3, 2025-01-01, 55d
         Develop .xml file: c4, 2025-01-01, 40d
         Integrate UI into the system: c5, 2025-01-01, 50d
-        Implements encryption algorithms:c6, 2025-01-01, 40d
-        Implement
+        Implement encryption algorithms:c6, 2025-01-01, 40d
+        Implement data 
     section 
         
 
