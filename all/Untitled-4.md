@@ -50,7 +50,7 @@ gantt
         Validate the accuracy of tracking data: d11, 2025-05-15, 15d
         Perform load test: d12, 2025-05-15, 15d
     section Deployment
-        Configure servers and database
+        Configure servers and database: e1,
     
         
 
