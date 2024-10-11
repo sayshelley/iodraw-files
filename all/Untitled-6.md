@@ -76,15 +76,9 @@ gantt
     
 
 todayMarker off
-#tag {
-    color: white;
-    background: #FA283D;
-    width: 150px;
-    position: absolute;
-    display: none;
-    padding:3px 6px;
-    margin-left: -80px;
-    font-size: 11px;
+.taskText {
+    fill:white;
+    text-anchor:middle;
 }
 
     
