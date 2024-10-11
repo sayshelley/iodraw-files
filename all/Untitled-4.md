@@ -58,7 +58,7 @@ gantt
         Connect with other applications: e6, 2025-07-02,10d
         Deploy UI to all platforms: e7, 2025-07-02, 10d
         Enable new security features in production: e8, 2025-07-02, 10d
-        Update terms of privacy for users
+        Update terms of privacy for users: e9, 2025-07-02
     
         
 
