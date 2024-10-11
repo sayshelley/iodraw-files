@@ -10,7 +10,7 @@ gantt
         Establish performance benchmarks: a3, after a4, 20d
         Define Key UX metrics: a5, after a4, 20d
     section Buffer time
-        Rest time: 20
+        Rest time: 2024-10-01, 7d
         
     section Design
         Asset current security system: b1, 2024-10-08, 20d
