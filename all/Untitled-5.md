@@ -56,7 +56,7 @@ gantt
         Validate the accuracy of tracking data: d11, 2025-05-15, 15d
         Perform load test: d12, 2025-05-15, 15d
     section Buffer time
-        Rest time: 2024-04-13, 7d
+        Rest time: 2024-06-13, 7d
     section Deployment
         Configure servers and database: e1, 2025-06-07, 15d
         Integrate cloud environment: e2, 2025-06-07, 15d
