@@ -76,7 +76,10 @@ gantt
     
 
 todayMarker off
-        
+
+        .taskText {
+    fill: blue; /* Change this to your preferred color */
+}
 
     
 
