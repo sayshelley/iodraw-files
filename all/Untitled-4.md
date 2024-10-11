@@ -44,7 +44,7 @@ gantt
         Collect user feedback on UI design: d5, 2025-04-20, 15d
         Test UI on different operating systems: d6, 2025-04-20, 15d
         Test UI on different devices: d7, 2025-04-20, 15d
-        Validate the accuracy of AI recommendations: 
+        Validate the accuracy of AI recommendations: 2025-04-20
     
         
 
