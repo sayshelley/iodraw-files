@@ -78,7 +78,7 @@ gantt
 todayMarker off
 
 .taskText {
-    fill: blue; 
+    fill: #0000ff; /* Your preferred color for task labels */
 }
 
     
