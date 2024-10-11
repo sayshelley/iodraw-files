@@ -54,7 +54,8 @@ gantt
         Integrate cloud environment: e2, 2025-06-07, 15d
         Deploy on new system: e3, 2025-06-22, 15d
         Migrate data: e4, 2025-06-22, 15d
-        Integrate with existing models: e5, 
+        Integrate with existing models: e5, 2025-07-02, 10d
+        
     
         
 
