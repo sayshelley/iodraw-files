@@ -32,6 +32,7 @@ gantt
         Integrate UI into the system: c5, 2025-01-01, 50d
         Implements encryption algorithms:c6, 2025-01-01, 40d
         
+    section 
         
 
     
