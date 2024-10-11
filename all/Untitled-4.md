@@ -37,10 +37,10 @@ gantt
         Develop real-time order tracking model: c10, 2025-01-01, 50d
         Integrage models into system: c11, 2025-03-26, 15d
     section Testing
-        Test system features: d1, 2025-04-20, 25d
+        Test system features: d1, 2025-04-20, 20d
         Test system capabilities: d2, 2025-04-20, 30d
         Test system response time: d3, 2025-04-20, 30d
-        Conduct user acceptance tests: d4, 2025-04-20, 
+        Conduct user acceptance tests: d4, 2025-04-20, 25d
     
         
 
