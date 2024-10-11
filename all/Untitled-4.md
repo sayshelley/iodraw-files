@@ -48,7 +48,7 @@ gantt
         Check AI performance stability: d9, 2025-04-20, 15d
         Test if the function is real-time: d10, 2025-05-15, 15d
         Validate the accuracy of tracking data: d11, 2025-05-15, 15d
-        Perform load test: d12, 
+        Perform load test: d12, 2025-05-15, 
     
         
 
