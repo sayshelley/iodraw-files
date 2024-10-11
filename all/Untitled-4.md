@@ -41,6 +41,7 @@ gantt
         Test system capabilities: d2, 2025-04-20, 30d
         Test system response time: d3, 2025-04-20, 30d
         Conduct user acceptance tests: d4, 2025-04-20, 25d
+        Collect user feedback on UI design
     
         
 
