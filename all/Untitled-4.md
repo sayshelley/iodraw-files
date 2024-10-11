@@ -52,7 +52,8 @@ gantt
     section Deployment
         Configure servers and database: e1, 2025-06-07, 15d
         Integrate cloud environment: e2, 2025-06-07, 15d
-        Deploy on new system: e3, 2025-06-22, 
+        Deploy on new system: e3, 2025-06-22, 15d
+        Migrate data: 
     
         
 
