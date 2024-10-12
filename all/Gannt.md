@@ -9,7 +9,7 @@ gantt
         Determine Environment and Device requirements: a2, after a4, 30d
         Establish performance benchmarks: a3, after a4, 20d
         Define Key UX metrics: a5, after a4, 20d
-    section Buffer time
+    section Buffer1
         Rest time: 2024-10-01, 7d
         
     section Design
@@ -26,7 +26,7 @@ gantt
         Produce ER Diagram for database design: b11, 2024-10-28, 15
         Design AI algorithm: b12, 2024-10-08, 35
         Design architecture for real-time data processing: b13, 2024-11-12,30d
-    section Buffer time
+    section Buffer2
         Rest time: 2024-12-20, 12d
     section Develop
         Develop APIs: c1, 2025-01-01, 45d
@@ -40,7 +40,7 @@ gantt
         Train model: c9, 2025-02-25, 30d
         Develop real-time order tracking model: c10, 2025-01-01, 50d
         Integrage models into system: c11, 2025-03-26, 15d
-    section Buffer time
+    section Buffer3
         Rest time: 2025-04-13, 7d
     section Testing
         Test system features: d1, 2025-04-20, 20d
@@ -55,7 +55,7 @@ gantt
         Test if the function is real-time: d10, 2025-05-15, 15d
         Validate the accuracy of tracking data: d11, 2025-05-15, 15d
         Perform load test: d12, 2025-05-15, 15d
-    section Buffer time
+    section Buffer4
         Rest time: 2025-06-01, 7d
     section Deployment
         Configure servers and database: crit,e1, 2025-06-07, 15d
@@ -71,7 +71,7 @@ gantt
         Continue collecting user data: e11, 2025-07-02, 7d
         Deploy order tracking functions: e12, 2025-07-02, 10d
         Keep monitoring the performance of the function: e13, 2025-07-02, 15d
-    section Buffer time
+    section Buffer5
         Rest time: 2025-07-15, 15d
     todayMarker off
     
